@@ -1,0 +1,86 @@
+             Interview Question For DBA 
+
+1 What types of databases do you work with?
+
+2 Do you have experience with on-premises databases, cloud databases or both?
+
+3 Can you explain what ODBC is?
+
+4 What is the highest number of database servers you have worked with?
+
+5 How would you handle data loss during a database migration?
+
+6 Give an example of a goal you reached and tell me how you achieved it.
+
+7 Give an example of a goal you didn't meet and how you handled it. 
+
+
+          
+
+            Interview Question For Java Web Developer
+
+1  List some of the input types that are new to HTML5
+
+2 How are your SQL skills?
+
+3 What do you do when an application stops working?
+
+4 What's the difference between SOAP and REST?
+
+5 Name a website or app that annoys you. What’s wrong with it?
+
+6 Describe a stressful situation at work and how you handled it.
+
+7 Tell me about how you worked effectively under pressure.
+
+
+                Interview Question For Quality Assurance 
+
+1 What Testing tools do you use/recommend, and Why?
+
+2 In an Automated world, how relevant is Manual Testing?
+
+3 What is the difference between Agile and Scrum?
+
+4 What are the first three things you’d do if you join us?
+
+5 How would you bring down the defects count in a project?
+
+6 How do you handle a challenge?
+
+7 Have you been in a situation where you didn't have enough work to do?
+
+
+               interview question for project managemnet 
+			  
+1 What are the three key challenges for our industry today and how can these be tackled effectively?
+
+2 What were the communication challenges on your last project?
+
+3 What is your communication style with your team?
+
+4 How do you communicate bad news?
+
+5 How have you handled disgruntled employees?
+
+6 Describe a time when it was especially important to make a good impression on a client. How did you go about doing so?
+
+7 Give me an example of a time when you did not meet a client’s expectation. What happened, and how did you attempt to rectify the situation?
+
+
+                interview question for CyberSecurity
+				
+1 What is the difference between a threat, a vulnerability, and a risk?
+
+2 How do you go about securing a server?
+
+3 Why is DNS monitoring important?
+
+4 What port does ping work over?
+
+5 What is the difference between encoding, encrypting, and hashing?
+
+6 What do you do if you disagree with your boss?
+
+7 Do you listen? Give an example of when you did or when you didn't listen.
+              
